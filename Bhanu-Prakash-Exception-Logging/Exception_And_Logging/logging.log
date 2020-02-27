@@ -1,0 +1,20 @@
+2020-02-26 17:01:22 INFO  Simple_Compound_Interest:18 - Enter principal amount : 
+2020-02-26 17:04:29 INFO  Simple_Compound_Interest:20 - Enter rate of interest per annum : 
+2020-02-26 17:04:35 INFO  Simple_Compound_Interest:22 - Enter time in years : 
+2020-02-26 17:04:42 INFO  Simple_Compound_Interest:29 - Simple interest = 1380.0
+
+2020-02-26 17:04:42 INFO  Simple_Compound_Interest:30 - -----------------------------------------------------
+
+2020-02-26 17:04:42 INFO  Simple_Compound_Interest:35 - Enter number of times interest applied per time period : 
+2020-02-26 17:05:02 INFO  Simple_Compound_Interest:38 - Compound interest = 1472.9646535952415
+
+2020-02-26 17:05:02 INFO  Simple_Compound_Interest:39 - -----------------------------------------------------
+
+2020-02-26 17:05:02 INFO  Simple_Compound_Interest:19 - Enter material standard:
+1.Standard material
+2.Above standard material
+3.High standard material
+
+2020-02-26 17:05:20 INFO  Simple_Compound_Interest:21 - Enter total area of the house : 
+2020-02-26 17:05:34 INFO  Simple_Compound_Interest:23 - Enter True/False for fully automated home : 
+2020-02-26 17:05:45 INFO  Simple_Compound_Interest:42 - Total construction cost of the house is Rs.498000.0
